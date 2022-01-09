@@ -13,11 +13,19 @@ You can run the app locally by running the following commands:
 Lived demo available here: 
 
 # Features
-- Auto sizing textareas
-- Autosave and load from browser storage
+- Auto sizing textareas.
+- Autosave and load from browser storage.
 - A user should be able to add and label columns.
 - A user should be able to add and edit cards.
-- A user should be able to move cards between columns (Drag and drop lists and cards)
+- A user should be able to move cards between columns (Drag and drop lists and cards).
+
+# Improvements
+- Add Login/Logout.
+- Add Search for tasks in board.
+- CRUD operations on Multiple Boards & tasks within them. 
+- Add Activity Log Functionality for tasks/boards operations.
+- Functionality to assign tags to tasks like Important, Completed, In progess, Closed, Open, Planned etc.
+- Personalize cards with background images.
 
 # Implementation
 
