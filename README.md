@@ -15,10 +15,6 @@ https://annurag09.github.io/Anurag09-To-Do-List/
 # Preview
 ![image](https://user-images.githubusercontent.com/46589691/148697085-bfc98b43-621a-49d1-b0a4-af8260ffa990.png)
 
-
-# Demo
-Lived demo available here: 
-
 # Features
 - Auto sizing textareas.
 - Autosave and load from browser storage.
