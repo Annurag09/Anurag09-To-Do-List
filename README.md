@@ -2,6 +2,15 @@
 The challenge is to build your own clone of a Trello board (Task Tracker Kanban). If you aren't familiar with Trello, this YouTube video gives a simple explanation:
 https://www.youtube.com/watch?v=AyfupeWS0yY&ab_channel=Trello
 
+# Installation
+
+You can run the app locally by running the following commands:
+
+    npm install (to install dependencies)
+    npm run start (to start a devserver at http://localhost:3000/)
+
+# Demo
+Lived demo available here: 
 
 # Features
 - Auto sizing textareas
