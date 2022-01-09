@@ -9,6 +9,10 @@ You can run the app locally by running the following commands:
     npm install (to install dependencies)
     npm run start (to start a devserver at http://localhost:3000/)
 
+# Preview
+![image](https://user-images.githubusercontent.com/46589691/148697085-bfc98b43-621a-49d1-b0a4-af8260ffa990.png)
+
+
 # Demo
 Lived demo available here: 
 
