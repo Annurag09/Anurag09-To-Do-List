@@ -2,6 +2,7 @@
   "name": "anurag09todolist",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://annurag09.github.io/Anurag09-To-Do-List/",
   "dependencies": {
     "localforage": "^1.7.3",
     "react": "^16.10.2",
